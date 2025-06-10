@@ -8,7 +8,8 @@ public class Lab008_byte {
         int i = 10;
         short s = 90;
         char c= 'a';
-        long l= 08766677l;
+        long l= 8766677l;
         long l1= 98899000L;
+        System.out.println(l);
     }
 }
