@@ -3,6 +3,7 @@ package ex_01_Java_Basic;
 public class lab018_operator {
     public static void main(String[] args) {
         // unary operator
+        // + or - before number
         int a= +10;
         // int a = 10 optional +
         // but - is not
