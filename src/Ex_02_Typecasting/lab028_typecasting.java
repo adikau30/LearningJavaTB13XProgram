@@ -1,4 +1,4 @@
-package Ex_01_Typecasting;
+package Ex_02_Typecasting;
 
 public class lab028_typecasting {
     public static void main(String[] args) {
