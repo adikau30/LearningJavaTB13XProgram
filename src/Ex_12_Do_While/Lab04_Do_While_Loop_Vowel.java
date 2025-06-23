@@ -1,3 +1,5 @@
+package Ex_12_Do_While;
+
 import java.util.Scanner;
 
 public class Lab04_Do_While_Loop_Vowel {
