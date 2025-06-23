@@ -19,7 +19,7 @@ public class Lab02_While_IQ_Factorial {
         }
 
         long factorial= 1;
-        if (number <0)
+        if (number == 0)
         {
             System.out.println(factorial);
         }else{
