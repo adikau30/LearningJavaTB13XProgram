@@ -7,6 +7,7 @@ public class Lab03_Pallendrome {
         Scanner s1= new Scanner(System.in);
         System.out.println("Enter the Value");
         String s2= s1.next();
+        
 
 
 
